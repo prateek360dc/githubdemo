@@ -2,7 +2,11 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>AccountTriggerHandlerTest</members>
+        <members>AccountTriggerHandler</members>
         <name>ApexClass</name>
+    </types>
+        <members>AccountTrigger</members>
+        <name>ApexTrigger</name>
     </types>
     <version>55.0</version>
 </Package>
